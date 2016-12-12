@@ -1,0 +1,8 @@
+c:\users\gersy\documents\visual studio 2012\Projects\URLRunner\URLRunner\obj\Debug\URLRunner.csprojResolveAssemblyReference.cache
+c:\users\gersy\documents\visual studio 2012\Projects\URLRunner\URLRunner\obj\Debug\URLRunner.Form1.resources
+c:\users\gersy\documents\visual studio 2012\Projects\URLRunner\URLRunner\obj\Debug\URLRunner.Properties.Resources.resources
+c:\users\gersy\documents\visual studio 2012\Projects\URLRunner\URLRunner\obj\Debug\URLRunner.csproj.GenerateResource.Cache
+c:\users\gersy\documents\visual studio 2012\Projects\URLRunner\URLRunner\bin\Debug\URLRunner.exe
+c:\users\gersy\documents\visual studio 2012\Projects\URLRunner\URLRunner\bin\Debug\URLRunner.pdb
+c:\users\gersy\documents\visual studio 2012\Projects\URLRunner\URLRunner\obj\Debug\URLRunner.exe
+c:\users\gersy\documents\visual studio 2012\Projects\URLRunner\URLRunner\obj\Debug\URLRunner.pdb
